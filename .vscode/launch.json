@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "🧪 Pytest Debug: test_dashboard",
+        "type": "debugpy",
+        "request": "launch",
+        "module": "pytest",
+        "justMyCode": false,
+        "args": [
+          "tests/test_team.py",
+          "--browser=chrome"
+        ],
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  

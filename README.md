@@ -1,0 +1,1 @@
+The Automation framework is consist of Selenium, Python, Pytest.
