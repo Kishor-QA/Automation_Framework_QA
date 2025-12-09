@@ -1,0 +1,4 @@
+username,password,case_type,expected
+testorg@test.com, password, success, dashboard
+testorg@test.com, Password, failure, invalid_name
+testorg1@test.com, password, failure, invalid_password

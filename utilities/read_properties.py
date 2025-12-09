@@ -7,11 +7,11 @@ config.read("./config/config.ini")
 class ReadConfig:
     @staticmethod
     def get_page_url():
-        return config.get("", "")
+        return config.get("login info", "Page_URL")
 
     @staticmethod
     def get_locator(name):
-        locator = config.get("", name)
+        locator = config.get("login info", name)
         locator_type, locator_value = locator.split(',', 1)  
         return (getattr(By, locator_type.strip()), locator_value.strip())
 

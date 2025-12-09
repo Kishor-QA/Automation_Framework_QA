@@ -9,8 +9,6 @@ from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from utilities.read_properties import ReadConfig
 from pages.login_page import LoginPage
-from pages.dashboard_page import Dashboard
-from pages.team_page import Team
 from utilities.read_properties import ClientConfig
 import time
 
@@ -60,26 +58,26 @@ def driver(browser):
     yield driver
     driver.quit()
 
-@pytest.fixture(scope="class")
-def dashboard(driver:WebDriver, credentials):
-    email, password = credentials
-    login = LoginPage(driver)
-    login.login(email, password)
-    return Dashboard(driver)
+# @pytest.fixture(scope="class")
+# def dashboard(driver:WebDriver, credentials):
+#     email, password = credentials
+#     login = LoginPage(driver)
+#     login.login(email, password)
+#     return Dashboard(driver)
 
-@pytest.fixture(scope="class")
-def select_client(driver, dashboard):
-    client_elements = dashboard.client()
-    client_list = [el.text for el in client_elements if el.text.strip()]
-    assert client_list, "Client list is empty."
-    client = "Ezdihar Sports"
-    #for client in client_list:
-    dashboard.get(dashboard.client_URL())
-    print(f"Selecting client: {client}")
-    dynamic_locator = ClientConfig.get_dynamic_client_locator(client)
-    time.sleep(2)
-    element = dashboard.find_element(dynamic_locator)
-    print(f"Dynamic locator for client {client}: {dynamic_locator}")
-    element.click()
-    yield
-    #break  # If you want to test with just the first client
+# @pytest.fixture(scope="class")
+# def select_client(driver, dashboard):
+#     client_elements = dashboard.client()
+#     client_list = [el.text for el in client_elements if el.text.strip()]
+#     assert client_list, "Client list is empty."
+#     client = "Ezdihar Sports"
+#     #for client in client_list:
+#     dashboard.get(dashboard.client_URL())
+#     print(f"Selecting client: {client}")
+#     dynamic_locator = ClientConfig.get_dynamic_client_locator(client)
+#     time.sleep(2)
+#     element = dashboard.find_element(dynamic_locator)
+#     print(f"Dynamic locator for client {client}: {dynamic_locator}")
+#     element.click()
+#     yield
+#     #break  # If you want to test with just the first client
