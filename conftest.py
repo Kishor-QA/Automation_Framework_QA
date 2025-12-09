@@ -22,13 +22,13 @@ def pytest_addoption(parser):
     parser.addoption(
         "--email",
         action="store",
-        default="superowner@keepme.club",
+        default="org@test.com",
         help="Login email"
     )
     parser.addoption(
         "--password",
         action="store",
-        default="Superowner@123",
+        default="password",
         help="Login password"
     )
 

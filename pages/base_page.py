@@ -89,3 +89,7 @@ class Basepage:
             if option.text.strip().lower() == value_to_select.strip().lower():
                 option.click()
                 break
+
+    def toast_alert(self, locator):
+        element = self.wait.until((EC.visibility_of_element_located(locator)))
+        return element.text.strip()
