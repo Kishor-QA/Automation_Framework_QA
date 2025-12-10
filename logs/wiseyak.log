@@ -1,136 +1,291 @@
-2025-12-09 16:28:50 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:29:11 - INFO - Wiseyak - Login success verified: WISE.ai
-2025-12-09 16:29:16 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:29:49 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
+2025-12-10 12:00:22 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:00:52 - INFO - Wiseyak - Login success verified: Profile
+2025-12-10 12:00:59 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:01:20 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
 TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
   (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
 Stacktrace:
 Symbols not available. Dumping unresolved backtrace:
-	0x684103
-	0x684144
-	0x48e71d
-	0x495493
-	0x497864
-	0x4978f8
-	0x4d9886
-	0x4da41b
-	0x5217f2
-	0x4fc954
-	0x51ee17
-	0x4fc706
-	0x4cda30
-	0x4ced54
-	0x8f57b4
-	0x8f098a
-	0x6ac392
-	0x69c4c8
-	0x6a324d
-	0x68c478
-	0x68c63c
-	0x6767ca
+	0xe04103
+	0xe04144
+	0xc0e71d
+	0xc15493
+	0xc17864
+	0xc178f8
+	0xc59886
+	0xc5a41b
+	0xca17f2
+	0xc7c954
+	0xc9ee17
+	0xc7c706
+	0xc4da30
+	0xc4ed54
+	0x10757b4
+	0x107098a
+	0xe2c392
+	0xe1c4c8
+	0xe2324d
+	0xe0c478
+	0xe0c63c
+	0xdf67ca
 	0x76535d49
 	0x776ed6cb
 	0x776ed651
 
-2025-12-09 16:29:50 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-09_16-29-49.png
-2025-12-09 16:29:58 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:30:31 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
+2025-12-10 12:01:20 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-01-20.png
+2025-12-10 12:01:25 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:01:46 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
 TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
   (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
 Stacktrace:
 Symbols not available. Dumping unresolved backtrace:
-	0x684103
-	0x684144
-	0x48e71d
-	0x495493
-	0x497864
-	0x4978f8
-	0x4d9886
-	0x4da41b
-	0x5217f2
-	0x4fc954
-	0x51ee17
-	0x4fc706
-	0x4cda30
-	0x4ced54
-	0x8f57b4
-	0x8f098a
-	0x6ac392
-	0x69c4c8
-	0x6a324d
-	0x68c478
-	0x68c63c
-	0x6767ca
+	0xe04103
+	0xe04144
+	0xc0e71d
+	0xc15493
+	0xc17864
+	0xc178f8
+	0xc59886
+	0xc5a41b
+	0xca17f2
+	0xc7c954
+	0xc9ee17
+	0xc7c706
+	0xc4da30
+	0xc4ed54
+	0x10757b4
+	0x107098a
+	0xe2c392
+	0xe1c4c8
+	0xe2324d
+	0xe0c478
+	0xe0c63c
+	0xdf67ca
 	0x76535d49
 	0x776ed6cb
 	0x776ed651
 
-2025-12-09 16:30:31 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-09_16-30-31.png
-2025-12-09 16:41:23 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:41:44 - INFO - Wiseyak - Login success verified: WISE.ai
-2025-12-09 16:41:50 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:42:23 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
+2025-12-10 12:01:46 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-01-46.png
+2025-12-10 12:11:46 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:12:17 - INFO - Wiseyak - Login success verified: Profile
+2025-12-10 12:12:23 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:12:44 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class,'Toastify__toast') and contains(@class,'Toastify__toast--error')]" because of the following error:
 TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
   (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
 Stacktrace:
 Symbols not available. Dumping unresolved backtrace:
-	0xc94103
-	0xc94144
-	0xa9e71d
-	0xaa5493
-	0xaa7864
-	0xaa78f8
-	0xae9886
-	0xaea41b
-	0xb317f2
-	0xb0c954
-	0xb2ee17
-	0xb0c706
-	0xadda30
-	0xaded54
-	0xf057b4
-	0xf0098a
-	0xcbc392
-	0xcac4c8
-	0xcb324d
-	0xc9c478
-	0xc9c63c
-	0xc867ca
+	0xe64103
+	0xe64144
+	0xc6e71d
+	0xc75493
+	0xc77864
+	0xc778f8
+	0xcb9886
+	0xcba41b
+	0xd017f2
+	0xcdc954
+	0xcfee17
+	0xcdc706
+	0xcada30
+	0xcaed54
+	0x10d57b4
+	0x10d098a
+	0xe8c392
+	0xe7c4c8
+	0xe8324d
+	0xe6c478
+	0xe6c63c
+	0xe567ca
 	0x76535d49
 	0x776ed6cb
 	0x776ed651
 
-2025-12-09 16:42:23 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-09_16-42-23.png
-2025-12-09 16:42:30 - INFO - Wiseyak - ====== Starting Login Test ======
-2025-12-09 16:43:04 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class, 'toastify') and contains(text(), 'Invalid')]" because of the following error:
+2025-12-10 12:12:44 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-12-44.png
+2025-12-10 12:12:50 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:13:10 - ERROR - Wiseyak - Unexpected error: Message: invalid selector: Unable to locate an element with the xpath expression "//div[contains(@class,'Toastify__toast') and contains(@class,'Toastify__toast--error')]" because of the following error:
 TypeError: Failed to execute 'evaluate' on 'Document': The result is not a node set, and therefore cannot be converted to the desired type.
   (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
 Stacktrace:
 Symbols not available. Dumping unresolved backtrace:
-	0xc94103
-	0xc94144
-	0xa9e71d
-	0xaa5493
-	0xaa7864
-	0xaa78f8
-	0xae9886
-	0xaea41b
-	0xb317f2
-	0xb0c954
-	0xb2ee17
-	0xb0c706
-	0xadda30
-	0xaded54
-	0xf057b4
-	0xf0098a
-	0xcbc392
-	0xcac4c8
-	0xcb324d
-	0xc9c478
-	0xc9c63c
-	0xc867ca
+	0xe64103
+	0xe64144
+	0xc6e71d
+	0xc75493
+	0xc77864
+	0xc778f8
+	0xcb9886
+	0xcba41b
+	0xd017f2
+	0xcdc954
+	0xcfee17
+	0xcdc706
+	0xcada30
+	0xcaed54
+	0x10d57b4
+	0x10d098a
+	0xe8c392
+	0xe7c4c8
+	0xe8324d
+	0xe6c478
+	0xe6c63c
+	0xe567ca
 	0x76535d49
 	0x776ed6cb
 	0x776ed651
 
-2025-12-09 16:43:04 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-09_16-43-04.png
+2025-12-10 12:13:10 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-13-10.png
+2025-12-10 12:15:57 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:16:18 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe64103
+	0xe64144
+	0xc6e71d
+	0xc75493
+	0xc77864
+	0xc778f8
+	0xcbe084
+	0xcbc387
+	0xcbb5fd
+	0xcb0071
+	0xcdc90c
+	0xcaf7c4
+	0xcdcac4
+	0xcfee17
+	0xcdc706
+	0xcada30
+	0xcaed54
+	0x10d57b4
+	0x10d098a
+	0xe8c392
+	0xe7c4c8
+	0xe8324d
+	0xe6c478
+	0xe6c63c
+	0xe567ca
+	0x76535d49
+	0x776ed6cb
+	0x776ed651
+
+2025-12-10 12:16:18 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-16-18.png
+2025-12-10 12:16:24 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:16:45 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:16:50 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:17:11 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:26:20 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:26:41 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e71d
+	0x425493
+	0x427864
+	0x4278f8
+	0x4704b2
+	0x46e37d
+	0x46c387
+	0x46b5fd
+	0x460071
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x76535d49
+	0x776ed6cb
+	0x776ed651
+
+2025-12-10 12:26:41 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-26-41.png
+2025-12-10 12:26:47 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:27:08 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:27:13 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:27:34 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:28:31 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:29:22 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e71d
+	0x46a03d
+	0x46a41b
+	0x4b17f2
+	0x48c954
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x76535d49
+	0x776ed6cb
+	0x776ed651
+
+2025-12-10 12:29:22 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-29-22.png
+2025-12-10 12:29:29 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:29:51 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:29:56 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:30:17 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:31:16 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:31:36 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.177); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x614103
+	0x614144
+	0x41e71d
+	0x425493
+	0x427864
+	0x4278f8
+	0x46d16e
+	0x46b124
+	0x460071
+	0x48c90c
+	0x45f7c4
+	0x48cac4
+	0x4aee17
+	0x48c706
+	0x45da30
+	0x45ed54
+	0x8857b4
+	0x88098a
+	0x63c392
+	0x62c4c8
+	0x63324d
+	0x61c478
+	0x61c63c
+	0x6067ca
+	0x76535d49
+	0x776ed6cb
+	0x776ed651
+
+2025-12-10 12:31:37 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2025-12-10_12-31-36.png
+2025-12-10 12:31:42 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:32:03 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 12:32:08 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 12:32:29 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 14:59:07 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 14:59:38 - INFO - Wiseyak - Login success verified: Profile
+2025-12-10 14:59:45 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 15:00:06 - INFO - Wiseyak - Login failure verified: Invalid username or password.
+2025-12-10 15:00:11 - INFO - Wiseyak - ====== Starting Login Test ======
+2025-12-10 15:00:33 - INFO - Wiseyak - Login failure verified: Invalid username or password.

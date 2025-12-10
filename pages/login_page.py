@@ -7,6 +7,7 @@ class LoginPage(Basepage):
     Password_Input = ReadConfig.get_locator("Password_Input")
     Login_Button = ReadConfig.get_locator("Login_Button")
     Toast_Alert = ReadConfig.get_locator("Toast_Alert")
+    Home_Button = ReadConfig.get_locator("Profile")
     #Validate_login = ReadConfig.get_locator("Validate_Login_Successful")
 
     def __init__(self, driver):
@@ -26,9 +27,21 @@ class LoginPage(Basepage):
 
 
     def login(self, username, password):
+        print("<<<<LOGIN STARTED>>>>>>>>>")
+        print("DEBUG: Before enter_username")
         self.enter_username(username)
+        print("DEBUG: After enter_username")
+
+        print("DEBUG: Before enter_password")
         self.enter_password(password)
+        print("DEBUG: After enter_password")
+
+        print("DEBUG: Before click_login")
         self.click_login()
+        print("DEBUG: After click_login")
+
+        print("<<<<LOGIN FINISHED>>>>>>")
+
     
     def get_error_message(self, username, password):
         self.enter_username(username)
@@ -40,5 +53,11 @@ class LoginPage(Basepage):
     #     # REPLACE with your real success condition
     #     return self.driver.current_url.endswith("/home")
 
-    def is_login_failed(self):
-        return self.driver.find_element(*self.error_message).is_displayed()
+    # def is_login_failed(self):
+    #     return self.driver.find_element(*self.error_message).is_displayed()
+    
+    def validate_profile(self):
+        element = self.find_element_profile(self.Home_Button)
+        return element.text.strip()
+    
+    

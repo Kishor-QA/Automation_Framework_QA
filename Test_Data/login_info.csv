@@ -1,4 +1,4 @@
 username,password,case_type,expected
-testorg@test.com,password,success,WISE.ai
-testorg@test.com,Password,failure,Invalid username or password
+org@test.com,password,success,Profile
+org@test.com,Password,failure,Invalid username or password
 testorg1@test.com,password,failure,Invalid username or password

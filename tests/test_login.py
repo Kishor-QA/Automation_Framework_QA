@@ -15,7 +15,7 @@ import time
 def load_credentials(file_path="./Test_Data/login_info.csv"):
     df = pd.read_csv(file_path)
     # Convert DataFrame to list of tuples
-    return list(df.itertuples(index=False, name=None))
+    return list(df.itertuples(index=False))
 
 test_data = load_credentials()
 
@@ -42,14 +42,17 @@ def test_login(driver, username, password, case_type, expected):
         logger.info(f"Screenshot saved: {screenshot_path}")    
 
     try:
-        time.sleep(10)
-        login_page.login(username , password)
         if case_type == "success":
-            actual_title = driver.title
-            print(f"The actual title is {actual_title}")
-            print(f"The expected title is {expected}")
-            assert actual_title == expected, f"Expected title '{expected}', got '{actual_title}'"
-            logger.info(f"Login success verified: {actual_title}")
+            print(f"The username is {username}")
+            print(f"The password is {password}")
+            login_page.login(username , password)
+            print("<<<<Debugging>>>>")
+            actual_text = login_page.validate_profile()
+            print(f"The text is {actual_text}")
+            print(f"The actual text is {actual_text}")
+            print(f"The expected text is {expected}")
+            assert actual_text == expected, f"Expected title '{expected}', got '{actual_text}'"
+            logger.info(f"Login success verified: {actual_text}")
 
         elif case_type == "failure":
             actual_error = login_page.get_error_message(username, password)

@@ -17,14 +17,18 @@ class Basepage:
     
     def find_element(self, locator):
         return self.driver.find_element(*locator)
-    
+
+    def find_element_profile(self, locator):
+        return self.wait.until(EC.visibility_of_element_located(locator))
+
     def find_elements(self, locator, parent_element=None):
         if parent_element:
             return parent_element.find_elements(*locator)
         return self.driver.find_elements(*locator)
     
     def click(self, locator):
-        self.wait.until(EC.element_to_be_clickable(locator)).click()
+        element = self.wait.until(EC.presence_of_element_located(locator))
+        element.click()
 
     def click_nth_element(self, locator, n):
         elements = self.wait.until(EC.presence_of_all_elements_located(locator))
