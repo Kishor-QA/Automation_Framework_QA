@@ -27,9 +27,13 @@ class Basepage:
         return self.driver.find_elements(*locator)
     
     def click(self, locator):
-        element = self.wait.until(EC.presence_of_element_located(locator))
-        element.click()
+        try:
+            element = self.wait.until(EC.element_to_be_clickable(locator))
+            element.click()
+        except Exception as e:
+            print(f"Already Clicked {e}")
 
+    
     def click_nth_element(self, locator, n):
         elements = self.wait.until(EC.presence_of_all_elements_located(locator))
         elements[n].click()

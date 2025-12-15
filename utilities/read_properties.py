@@ -15,13 +15,13 @@ class ReadConfig:
         locator_type, locator_value = locator.split(',', 1)  
         return (getattr(By, locator_type.strip()), locator_value.strip())
 
-class ClientConfig:
-    @staticmethod
-    def get_client_url():
-        return config.get("", "")
+class DashboardConfig:
+    # @staticmethod
+    # def get_client_url():
+    #     return config.get("", "")
     @staticmethod
     def get_locator(name):
-        locator = config.get("", name)
+        locator = config.get("WiseAI Dashboard", name)
         locator_type, locator_value = locator.split(',', 1)
         return (getattr(By, locator_type.strip()), locator_value.strip())
 

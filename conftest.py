@@ -9,8 +9,9 @@ from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from utilities.read_properties import ReadConfig
 from pages.login_page import LoginPage
-from utilities.read_properties import ClientConfig
+from pages.home_page import Home
 import time
+import pandas as pd
 
 def pytest_addoption(parser):  
     parser.addoption(
@@ -58,12 +59,18 @@ def driver(browser):
     yield driver
     driver.quit()
 
-# @pytest.fixture(scope="class")
-# def dashboard(driver:WebDriver, credentials):
-#     email, password = credentials
-#     login = LoginPage(driver)
-#     login.login(email, password)
-#     return Dashboard(driver)
+@pytest.fixture(scope="class")
+def get_valid_credentials(file_path="./Test_Data/login_info.csv"):
+    df = pd.read_csv(file_path)
+    valid_row = df[df['case_type'] == 'success'].iloc[0]   # take first valid row
+    return valid_row['username'], valid_row['password']
+
+@pytest.fixture(scope="class")
+def dashboard(driver:WebDriver, get_valid_credentials):
+    email, password = get_valid_credentials
+    login = LoginPage(driver)
+    login.login(email, password)
+    return Home(driver)
 
 # @pytest.fixture(scope="class")
 # def select_client(driver, dashboard):
