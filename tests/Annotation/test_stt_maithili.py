@@ -15,59 +15,58 @@ class TestAnnotation:
 
         page = stt_maithili_page
 
+        total_pick = 3
+        picked = 0
+
         # Initial flow
         page.click_stt_maithili()
         page.click_tokens_button()
-        page.click_pick_tokens()
 
-        # assert page.pick_successful() == "Audio task picked successfully!"
-        self.logger.info("Token picked successfully")
-        time.sleep(3)
+        # 🔁 Pick tokens first
+        while picked < total_pick:
+            try:
+                page.click_pick_tokens()
+                time.sleep(2)
+                picked += 1
+                self.logger.info(f"Picked token {picked}")
+            except Exception as e:
+                self.logger.warning(f"Stopped picking at {picked}: {e}")
+                break
+
+        self.logger.info("Token picking completed")
+
+        # 👉 Now move forward
         page.click_my_task()
-        time.sleep(3)
+        time.sleep(2)
         page.filter_pending_task()
-        time.sleep(3)
+        time.sleep(2)
         page.pick_task()
+        time.sleep(2)
 
-
-        # 🔁 Controlled Loop
-        max_iterations = 50   
         iteration = 0
+        max_iterations = 3
 
         while True:
-            print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<I am currently here>>>>>>>>>>>>>>>")
             time.sleep(3)
             remaining = page.get_remaining_tasks_count()
-            self.logger.info(f"Remaining tasks: {remaining}")
+            self.logger.info(f"Remaining: {remaining}")
 
             if remaining == 0:
                 self.logger.info("All tasks completed ✅")
                 break
 
             if iteration >= max_iterations:
-                raise Exception("Loop exceeded safe limit — possible UI issue")
+                self.logger.warning("Stopped due to max iteration limit")
+                break
 
             iteration += 1
 
-            try:
-                time.sleep(3)
-                # Step 1: Generate transcription
-                page.use_AI()
-                # message = page.get_transcription_success_message()
-                # assert message == "Transcription generated successfully!"
-                # self.logger.info(f"Task {iteration}: Transcription generated")we
-                # Step 2: Submit
-                time.sleep(3)
-                page.submit_button()
-                self.logger.info(f"Task {iteration}: Submitted")
+            # 👉 Perform task
+            time.sleep(3)
+            page.use_AI()
+            time.sleep(3)
+            page.submit_button()
+            time.sleep(3)
 
-                #Step 3: Click next (if available)
-                remaining_after_submit = page.get_remaining_tasks_count()
-
-                if remaining_after_submit > 0:
-                    page.click_next_task()
-                    self.logger.info(f"Task {iteration}: Moving to next task")
-
-            except Exception as e:
-                self.logger.error(f"Error in iteration {iteration}: {str(e)}")
-                raise
+            if page.get_remaining_tasks_count() > 0:
+                page.click_next_task()

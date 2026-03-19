@@ -1766,3 +1766,249 @@ Stacktrace:
 2026-03-19 11:58:42 - INFO - Wiseyak - Remaining tasks: 50
 2026-03-19 12:00:20 - ERROR - Wiseyak - Error in iteration 2: Message: 
 
+2026-03-19 15:43:52 - INFO - Wiseyak - Token picked successfully
+2026-03-19 15:44:04 - INFO - Wiseyak - Remaining tasks: 1
+2026-03-19 15:45:38 - ERROR - Wiseyak - Error in iteration 1: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xfe7c13+10dd3]
+	chromedriver!GetHandleVerifier [0xfe7d44+10f04]
+	chromedriver!(No symbol) [0xdc1f50]
+	chromedriver!(No symbol) [0xe0a9aa]
+	chromedriver!(No symbol) [0xe0ac4b]
+	chromedriver!(No symbol) [0xe4cee2]
+	chromedriver!(No symbol) [0xe2d954]
+	chromedriver!(No symbol) [0xe4a7de]
+	chromedriver!(No symbol) [0xe2d6a6]
+	chromedriver!(No symbol) [0xe00029]
+	chromedriver!(No symbol) [0xe00de4]
+	chromedriver!GetHandleVerifier [0x1244509+26d6c9]
+	chromedriver!GetHandleVerifier [0x123fb43+268d03]
+	chromedriver!GetHandleVerifier [0x125d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x1001668+2a828]
+	chromedriver!GetHandleVerifier [0x10097fd+329bd]
+	chromedriver!GetHandleVerifier [0xff0588+19748]
+	chromedriver!GetHandleVerifier [0xff0752+19912]
+	chromedriver!GetHandleVerifier [0xfd99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 15:54:44 - INFO - Wiseyak - Picked token 1
+2026-03-19 15:54:45 - INFO - Wiseyak - Picked token 2
+2026-03-19 15:54:46 - INFO - Wiseyak - Picked token 3
+2026-03-19 15:54:47 - INFO - Wiseyak - Picked token 4
+2026-03-19 15:54:47 - INFO - Wiseyak - Picked token 5
+2026-03-19 15:54:48 - INFO - Wiseyak - Picked token 6
+2026-03-19 15:54:49 - INFO - Wiseyak - Picked token 7
+2026-03-19 15:54:49 - INFO - Wiseyak - Picked token 8
+2026-03-19 15:54:50 - INFO - Wiseyak - Picked token 9
+2026-03-19 15:54:51 - INFO - Wiseyak - Picked token 10
+2026-03-19 15:54:51 - INFO - Wiseyak - Token picking completed
+2026-03-19 15:57:03 - INFO - Wiseyak - Picked token 1
+2026-03-19 15:57:04 - INFO - Wiseyak - Picked token 2
+2026-03-19 15:57:05 - INFO - Wiseyak - Picked token 3
+2026-03-19 15:57:06 - INFO - Wiseyak - Picked token 4
+2026-03-19 15:57:07 - INFO - Wiseyak - Picked token 5
+2026-03-19 15:57:08 - INFO - Wiseyak - Picked token 6
+2026-03-19 15:57:09 - INFO - Wiseyak - Picked token 7
+2026-03-19 15:57:10 - INFO - Wiseyak - Picked token 8
+2026-03-19 15:57:11 - INFO - Wiseyak - Picked token 9
+2026-03-19 15:57:12 - INFO - Wiseyak - Picked token 10
+2026-03-19 15:57:12 - INFO - Wiseyak - Token picking completed
+2026-03-19 15:58:40 - INFO - Wiseyak - Picked token 1
+2026-03-19 15:58:41 - INFO - Wiseyak - Picked token 2
+2026-03-19 15:58:42 - INFO - Wiseyak - Picked token 3
+2026-03-19 15:58:43 - INFO - Wiseyak - Picked token 4
+2026-03-19 15:58:44 - INFO - Wiseyak - Picked token 5
+2026-03-19 15:58:45 - INFO - Wiseyak - Picked token 6
+2026-03-19 15:58:46 - INFO - Wiseyak - Picked token 7
+2026-03-19 15:58:47 - INFO - Wiseyak - Picked token 8
+2026-03-19 15:58:48 - INFO - Wiseyak - Picked token 9
+2026-03-19 15:58:49 - INFO - Wiseyak - Picked token 10
+2026-03-19 15:58:49 - INFO - Wiseyak - Token picking completed
+2026-03-19 15:59:49 - INFO - Wiseyak - Picked token 1
+2026-03-19 15:59:51 - INFO - Wiseyak - Picked token 2
+2026-03-19 15:59:52 - INFO - Wiseyak - Picked token 3
+2026-03-19 15:59:53 - INFO - Wiseyak - Picked token 4
+2026-03-19 15:59:54 - INFO - Wiseyak - Picked token 5
+2026-03-19 15:59:55 - INFO - Wiseyak - Picked token 6
+2026-03-19 15:59:56 - INFO - Wiseyak - Picked token 7
+2026-03-19 15:59:58 - INFO - Wiseyak - Picked token 8
+2026-03-19 15:59:59 - INFO - Wiseyak - Picked token 9
+2026-03-19 16:00:00 - INFO - Wiseyak - Picked token 10
+2026-03-19 16:00:00 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:01:28 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:01:29 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:01:30 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:01:31 - INFO - Wiseyak - Picked token 4
+2026-03-19 16:01:33 - INFO - Wiseyak - Picked token 5
+2026-03-19 16:01:34 - INFO - Wiseyak - Picked token 6
+2026-03-19 16:03:05 - WARNING - Wiseyak - Stopped picking at 6: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xfe7c13+10dd3]
+	chromedriver!GetHandleVerifier [0xfe7d44+10f04]
+	chromedriver!(No symbol) [0xdc1f50]
+	chromedriver!(No symbol) [0xe0a9aa]
+	chromedriver!(No symbol) [0xe0ac4b]
+	chromedriver!(No symbol) [0xe4cee2]
+	chromedriver!(No symbol) [0xe2d954]
+	chromedriver!(No symbol) [0xe4a7de]
+	chromedriver!(No symbol) [0xe2d6a6]
+	chromedriver!(No symbol) [0xe00029]
+	chromedriver!(No symbol) [0xe00de4]
+	chromedriver!GetHandleVerifier [0x1244509+26d6c9]
+	chromedriver!GetHandleVerifier [0x123fb43+268d03]
+	chromedriver!GetHandleVerifier [0x125d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x1001668+2a828]
+	chromedriver!GetHandleVerifier [0x10097fd+329bd]
+	chromedriver!GetHandleVerifier [0xff0588+19748]
+	chromedriver!GetHandleVerifier [0xff0752+19912]
+	chromedriver!GetHandleVerifier [0xfd99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 16:03:05 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:03:09 - INFO - Wiseyak - Remaining tasks: 46
+2026-03-19 16:03:31 - ERROR - Wiseyak - Error in iteration 1: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xfe7c13+10dd3]
+	chromedriver!GetHandleVerifier [0xfe7d44+10f04]
+	chromedriver!(No symbol) [0xdc1d8e]
+	chromedriver!(No symbol) [0xdff2b5]
+	chromedriver!(No symbol) [0xe2d7c6]
+	chromedriver!(No symbol) [0xe28c41]
+	chromedriver!(No symbol) [0xe28262]
+	chromedriver!(No symbol) [0xd9517e]
+	chromedriver!(No symbol) [0xd9571e]
+	chromedriver!(No symbol) [0xd95bfd]
+	chromedriver!GetHandleVerifier [0x1244509+26d6c9]
+	chromedriver!GetHandleVerifier [0x123fb43+268d03]
+	chromedriver!GetHandleVerifier [0x125d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x1001668+2a828]
+	chromedriver!GetHandleVerifier [0x10097fd+329bd]
+	chromedriver!(No symbol) [0xd94ee9]
+	chromedriver!(No symbol) [0xd94530]
+	chromedriver!GetHandleVerifier [0x138dc9f+3b6e5f]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 16:04:47 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:04:48 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:04:49 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:04:50 - INFO - Wiseyak - Picked token 4
+2026-03-19 16:04:51 - INFO - Wiseyak - Picked token 5
+2026-03-19 16:04:53 - INFO - Wiseyak - Picked token 6
+2026-03-19 16:04:54 - INFO - Wiseyak - Picked token 7
+2026-03-19 16:04:55 - INFO - Wiseyak - Picked token 8
+2026-03-19 16:04:56 - INFO - Wiseyak - Picked token 9
+2026-03-19 16:04:57 - INFO - Wiseyak - Picked token 10
+2026-03-19 16:04:57 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:08:28 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:08:30 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:08:32 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:08:34 - INFO - Wiseyak - Picked token 4
+2026-03-19 16:08:37 - INFO - Wiseyak - Picked token 5
+2026-03-19 16:08:40 - INFO - Wiseyak - Picked token 6
+2026-03-19 16:08:42 - INFO - Wiseyak - Picked token 7
+2026-03-19 16:08:44 - INFO - Wiseyak - Picked token 8
+2026-03-19 16:08:46 - INFO - Wiseyak - Picked token 9
+2026-03-19 16:08:48 - INFO - Wiseyak - Picked token 10
+2026-03-19 16:08:48 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:08:57 - INFO - Wiseyak - Remaining tasks: 66
+2026-03-19 16:09:12 - ERROR - Wiseyak - Error in iteration 1: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xfe7c13+10dd3]
+	chromedriver!GetHandleVerifier [0xfe7d44+10f04]
+	chromedriver!(No symbol) [0xdc1d8e]
+	chromedriver!(No symbol) [0xdff2b5]
+	chromedriver!(No symbol) [0xe2d7c6]
+	chromedriver!(No symbol) [0xe28c41]
+	chromedriver!(No symbol) [0xe28262]
+	chromedriver!(No symbol) [0xd9517e]
+	chromedriver!(No symbol) [0xd9571e]
+	chromedriver!(No symbol) [0xd95bfd]
+	chromedriver!GetHandleVerifier [0x1244509+26d6c9]
+	chromedriver!GetHandleVerifier [0x123fb43+268d03]
+	chromedriver!GetHandleVerifier [0x125d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x1001668+2a828]
+	chromedriver!GetHandleVerifier [0x10097fd+329bd]
+	chromedriver!(No symbol) [0xd94ee9]
+	chromedriver!(No symbol) [0xd94530]
+	chromedriver!GetHandleVerifier [0x138dc9f+3b6e5f]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 16:10:03 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:10:06 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:10:08 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:10:10 - INFO - Wiseyak - Picked token 4
+2026-03-19 16:10:12 - INFO - Wiseyak - Picked token 5
+2026-03-19 16:10:14 - INFO - Wiseyak - Picked token 6
+2026-03-19 16:10:16 - INFO - Wiseyak - Picked token 7
+2026-03-19 16:10:18 - INFO - Wiseyak - Picked token 8
+2026-03-19 16:10:20 - INFO - Wiseyak - Picked token 9
+2026-03-19 16:10:22 - INFO - Wiseyak - Picked token 10
+2026-03-19 16:10:22 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:10:32 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 16:10:51 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-19 16:12:28 - ERROR - Wiseyak - Error in iteration 2: Message: 
+
+2026-03-19 16:36:44 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:36:46 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:36:48 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:36:48 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:36:57 - INFO - Wiseyak - Remaining tasks: 62
+2026-03-19 16:37:14 - INFO - Wiseyak - Remaining tasks: 61
+2026-03-19 16:37:32 - ERROR - Wiseyak - Error in iteration 2: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xe17c13+10dd3]
+	chromedriver!GetHandleVerifier [0xe17d44+10f04]
+	chromedriver!(No symbol) [0xbf1d8e]
+	chromedriver!(No symbol) [0xc2f2b5]
+	chromedriver!(No symbol) [0xc5d7c6]
+	chromedriver!(No symbol) [0xc58c41]
+	chromedriver!(No symbol) [0xc58262]
+	chromedriver!(No symbol) [0xbc517e]
+	chromedriver!(No symbol) [0xbc571e]
+	chromedriver!(No symbol) [0xbc5bfd]
+	chromedriver!GetHandleVerifier [0x1074509+26d6c9]
+	chromedriver!GetHandleVerifier [0x106fb43+268d03]
+	chromedriver!GetHandleVerifier [0x108d85b+286a1b]
+	chromedriver!GetHandleVerifier [0xe31668+2a828]
+	chromedriver!GetHandleVerifier [0xe397fd+329bd]
+	chromedriver!(No symbol) [0xbc4ee9]
+	chromedriver!(No symbol) [0xbc4530]
+	chromedriver!GetHandleVerifier [0x11bdc9f+3b6e5f]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 16:39:03 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:39:05 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:39:07 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:39:07 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:39:16 - INFO - Wiseyak - Remaining tasks: 69
+2026-03-19 16:39:32 - INFO - Wiseyak - Remaining tasks: 68
+2026-03-19 16:39:47 - INFO - Wiseyak - Remaining tasks: 67
+2026-03-19 16:40:02 - INFO - Wiseyak - Remaining tasks: 66
+2026-03-19 16:55:02 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:55:04 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:55:06 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:55:06 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:55:16 - INFO - Wiseyak - Remaining: 69
+2026-03-19 16:55:32 - INFO - Wiseyak - Remaining: 68
+2026-03-19 16:55:44 - INFO - Wiseyak - Remaining: 67
+2026-03-19 16:55:57 - INFO - Wiseyak - Remaining: 66
+2026-03-19 16:55:57 - WARNING - Wiseyak - Stopped due to max iteration limit
+2026-03-19 16:56:16 - INFO - Wiseyak - Picked token 1
+2026-03-19 16:56:18 - INFO - Wiseyak - Picked token 2
+2026-03-19 16:56:20 - INFO - Wiseyak - Picked token 3
+2026-03-19 16:56:20 - INFO - Wiseyak - Token picking completed
+2026-03-19 16:56:30 - INFO - Wiseyak - Remaining: 69
+2026-03-19 16:56:46 - INFO - Wiseyak - Remaining: 68
+2026-03-19 16:57:02 - INFO - Wiseyak - Remaining: 67
+2026-03-19 16:57:14 - INFO - Wiseyak - Remaining: 66
+2026-03-19 16:57:14 - WARNING - Wiseyak - Stopped due to max iteration limit
