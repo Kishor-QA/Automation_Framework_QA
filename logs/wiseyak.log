@@ -1,0 +1,1768 @@
+2026-01-06 15:10:52 - INFO - Wiseyak - Current_URL is https://dev.wiseai.wiseyak.com/
+2026-01-06 15:10:52 - ERROR - Wiseyak - The error is assert 'https://dev.....wiseyak.com/' == 'https://dev.....com/register'
+  
+  - https://dev.wiseai.wiseyak.com/register
+  ?                                --------
+  + https://dev.wiseai.wiseyak.com/
+2026-01-06 15:15:47 - INFO - Wiseyak - Current_URL is https://dev.wiseai.wiseyak.com/
+2026-01-06 15:15:47 - ERROR - Wiseyak - The error is assert 'https://dev.....wiseyak.com/' == 'https://dev.....com/register'
+  
+  - https://dev.wiseai.wiseyak.com/register
+  ?                                --------
+  + https://dev.wiseai.wiseyak.com/
+2026-01-06 15:45:31 - INFO - Wiseyak - Current_URL is https://dev.wiseai.wiseyak.com/
+2026-01-06 15:45:31 - ERROR - Wiseyak - The error is assert 'https://dev.....wiseyak.com/' == 'https://dev.....com/register'
+  
+  - https://dev.wiseai.wiseyak.com/register
+  ?                                --------
+  + https://dev.wiseai.wiseyak.com/
+2026-01-19 14:24:23 - INFO - Wiseyak - Current_URL is https://dev.wiseai.wiseyak.com/
+2026-01-19 14:24:23 - ERROR - Wiseyak - The error is assert 'https://dev.....wiseyak.com/' == 'https://dev.....com/register'
+  
+  - https://dev.wiseai.wiseyak.com/register
+  ?                                --------
+  + https://dev.wiseai.wiseyak.com/
+2026-02-09 14:17:52 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:18:22 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:18:22 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-18-22.png
+2026-02-09 14:18:29 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:19:00 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:19:00 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-19-00.png
+2026-02-09 14:23:17 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:23:48 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:23:48 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-23-48.png
+2026-02-09 14:23:54 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:24:25 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:24:25 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-24-25.png
+2026-02-09 14:24:32 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:25:02 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:25:02 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-25-02.png
+2026-02-09 14:29:13 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:29:44 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x815093
+	0x8150d4
+	0x60b490
+	0x6558da
+	0x655b7b
+	0x697b42
+	0x678204
+	0x695341
+	0x677f56
+	0x6496c9
+	0x64a484
+	0xa67e34
+	0xa630c9
+	0xa80add
+	0x82db38
+	0x8358ad
+	0x81d848
+	0x81da12
+	0x8075fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:29:44 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-29-44.png
+2026-02-09 14:29:50 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:31:19 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:31:49 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1e58da
+	0x1e5b7b
+	0x227b42
+	0x208204
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:31:49 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-31-49.png
+2026-02-09 14:31:56 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:31:59 - ERROR - Wiseyak - Unexpected error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x18a43e
+	0x1a8ef3
+	0x20f00c
+	0x224df9
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:34:54 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:34:56 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1a20b1
+	0x1a439f
+	0x1a4438
+	0x1e78ab
+	0x1e6b68
+	0x1db4f8
+	0x2081bc
+	0x1daf34
+	0x208384
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:34:56 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-34-56.png
+2026-02-09 14:35:02 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:35:05 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1a20b1
+	0x1a439f
+	0x1a4438
+	0x1e75b2
+	0x1e6728
+	0x1db4f8
+	0x2081bc
+	0x1daf34
+	0x208384
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:35:05 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-35-05.png
+2026-02-09 14:35:10 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:35:45 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1e58da
+	0x1e5b7b
+	0x227b42
+	0x208204
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:35:46 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-35-45.png
+2026-02-09 14:39:41 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:39:43 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1a20b1
+	0x1a439f
+	0x1a4438
+	0x1ebf03
+	0x1ea1e9
+	0x1e7ba2
+	0x1e6db4
+	0x1db4f8
+	0x2081bc
+	0x1daf34
+	0x208384
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:39:44 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-39-43.png
+2026-02-09 14:39:49 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:39:52 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1a20b1
+	0x1a439f
+	0x1a4438
+	0x1e998c
+	0x1e7ba2
+	0x1e6db4
+	0x1db4f8
+	0x2081bc
+	0x1daf34
+	0x208384
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:39:52 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-39-52.png
+2026-02-09 14:39:58 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:40:33 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x3a5093
+	0x3a50d4
+	0x19b490
+	0x1e58da
+	0x1e5b7b
+	0x227b42
+	0x208204
+	0x225341
+	0x207f56
+	0x1d96c9
+	0x1da484
+	0x5f7e34
+	0x5f30c9
+	0x610add
+	0x3bdb38
+	0x3c58ad
+	0x3ad848
+	0x3ada12
+	0x3975fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+	(nil)
+
+2026-02-09 14:40:33 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-40-33.png
+2026-02-09 14:59:24 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:59:26 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x31998c
+	0x317ba2
+	0x316db4
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:59:26 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-59-26.png
+2026-02-09 14:59:32 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 14:59:34 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x31998c
+	0x317ba2
+	0x316db4
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 14:59:35 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_14-59-34.png
+2026-02-09 14:59:40 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:00:15 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x3158da
+	0x315b7b
+	0x357b42
+	0x338204
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:00:15 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-00-15.png
+2026-02-09 15:01:00 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:01:03 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x31bf03
+	0x319c9e
+	0x317ba2
+	0x316db4
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:01:04 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-01-03.png
+2026-02-09 15:01:09 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:01:11 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x31998c
+	0x317ba2
+	0x316db4
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:01:12 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-01-11.png
+2026-02-09 15:01:18 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:01:53 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x3158da
+	0x315b7b
+	0x357b42
+	0x338204
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:01:54 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-01-53.png
+2026-02-09 15:02:45 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:02:48 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x3178ab
+	0x316b68
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:02:49 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-02-48.png
+2026-02-09 15:02:54 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:02:57 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x3175b2
+	0x316728
+	0x30b7f0
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:02:58 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-02-57.png
+2026-02-09 15:03:03 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:03:38 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x3158da
+	0x315b7b
+	0x357b42
+	0x338204
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:03:38 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-03-38.png
+2026-02-09 15:05:20 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:05:22 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x31998c
+	0x317ba2
+	0x316db4
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:05:22 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-05-22.png
+2026-02-09 15:05:28 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:05:31 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x2d20b1
+	0x2d439f
+	0x2d4438
+	0x3175b2
+	0x316728
+	0x30b4f8
+	0x3381bc
+	0x30af34
+	0x338384
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:05:31 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-05-31.png
+2026-02-09 15:05:36 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:06:11 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4d5093
+	0x4d50d4
+	0x2cb490
+	0x3158da
+	0x315b7b
+	0x357b42
+	0x338204
+	0x355341
+	0x337f56
+	0x3096c9
+	0x30a484
+	0x727e34
+	0x7230c9
+	0x740add
+	0x4edb38
+	0x4f58ad
+	0x4dd848
+	0x4dda12
+	0x4c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:06:11 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-06-11.png
+2026-02-09 15:14:37 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:14:40 - ERROR - Wiseyak - Unexpected error: Failed to send keys: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12d5093
+	0x12d50d4
+	0x10cb490
+	0x10d20b1
+	0x10d439f
+	0x10d4438
+	0x11189e8
+	0x11168f6
+	0x110b4f8
+	0x11381bc
+	0x110af34
+	0x1138384
+	0x1155341
+	0x1137f56
+	0x11096c9
+	0x110a484
+	0x1527e34
+	0x15230c9
+	0x1540add
+	0x12edb38
+	0x12f58ad
+	0x12dd848
+	0x12dda12
+	0x12c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:14:40 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-14-40.png
+2026-02-09 15:14:47 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:14:49 - ERROR - Wiseyak - Unexpected error: Failed to send keys: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12d5093
+	0x12d50d4
+	0x10cb490
+	0x10d20b1
+	0x10d439f
+	0x10d4438
+	0x111998c
+	0x1117ba2
+	0x1116db4
+	0x110b4f8
+	0x11381bc
+	0x110af34
+	0x1138384
+	0x1155341
+	0x1137f56
+	0x11096c9
+	0x110a484
+	0x1527e34
+	0x15230c9
+	0x1540add
+	0x12edb38
+	0x12f58ad
+	0x12dd848
+	0x12dda12
+	0x12c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:14:50 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-14-49.png
+2026-02-09 15:14:55 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:15:30 - ERROR - Wiseyak - Unexpected error: Failed to locate toast alert: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x12d5093
+	0x12d50d4
+	0x10cb490
+	0x11158da
+	0x1115b7b
+	0x1157b42
+	0x1138204
+	0x1155341
+	0x1137f56
+	0x11096c9
+	0x110a484
+	0x1527e34
+	0x15230c9
+	0x1540add
+	0x12edb38
+	0x12f58ad
+	0x12dd848
+	0x12dda12
+	0x12c75fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:15:30 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-15-30.png
+2026-02-09 15:25:36 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:25:39 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3220b1
+	0x32439f
+	0x324438
+	0x360d89
+	0x3881bc
+	0x35af34
+	0x388384
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:25:40 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-25-39.png
+2026-02-09 15:25:47 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:25:49 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3220b1
+	0x32439f
+	0x324438
+	0x360d89
+	0x3881bc
+	0x35af34
+	0x388384
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:25:49 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-25-49.png
+2026-02-09 15:25:54 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:26:28 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:27:00 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:27:01 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-27-00.png
+2026-02-09 15:27:07 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:27:10 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3220b1
+	0x32439f
+	0x324438
+	0x3675b2
+	0x35b47f
+	0x3881bc
+	0x35af34
+	0x388384
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:27:10 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-27-10.png
+2026-02-09 15:27:15 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:27:51 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:27:51 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-27-51.png
+2026-02-09 15:30:09 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:30:39 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:30:39 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-30-39.png
+2026-02-09 15:30:46 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:31:19 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:31:19 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-31-19.png
+2026-02-09 15:31:26 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:32:02 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:32:02 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-32-02.png
+2026-02-09 15:34:44 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:35:16 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:35:16 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-35-16.png
+2026-02-09 15:35:23 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:35:26 - ERROR - Wiseyak - Unexpected error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3220b1
+	0x32439f
+	0x324438
+	0x3675b2
+	0x35b47f
+	0x3881bc
+	0x35af34
+	0x388384
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:35:27 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-35-26.png
+2026-02-09 15:35:33 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:36:08 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:36:08 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-36-08.png
+2026-02-09 15:37:32 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:37:47 - INFO - Wiseyak - Login success verified: Organization Overview
+2026-02-09 15:37:52 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:38:26 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:38:27 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-38-26.png
+2026-02-09 15:38:33 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-09 15:39:08 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x525093
+	0x5250d4
+	0x31b490
+	0x3658da
+	0x365b7b
+	0x3a7b42
+	0x388204
+	0x3a5341
+	0x387f56
+	0x3596c9
+	0x35a484
+	0x777e34
+	0x7730c9
+	0x790add
+	0x53db38
+	0x5458ad
+	0x52d848
+	0x52da12
+	0x5175fa
+	0x765f5d49
+	0x76fdd83b
+	0x76fdd7c1
+
+2026-02-09 15:39:08 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-09_15-39-08.png
+2026-02-11 11:45:00 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-11 11:45:16 - INFO - Wiseyak - Login success verified: Organization Overview
+2026-02-11 11:45:21 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-11 11:45:57 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x405093
+	0x4050d4
+	0x1fb490
+	0x2458da
+	0x245b7b
+	0x287b42
+	0x268204
+	0x285341
+	0x267f56
+	0x2396c9
+	0x23a484
+	0x657e34
+	0x6530c9
+	0x670add
+	0x41db38
+	0x4258ad
+	0x40d848
+	0x40da12
+	0x3f75fa
+	0x75895d49
+	0x7719d83b
+	0x7719d7c1
+
+2026-02-11 11:45:57 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-11_11-45-57.png
+2026-02-11 11:46:04 - INFO - Wiseyak - ====== Starting Login Test ======
+2026-02-11 11:46:39 - ERROR - Wiseyak - Unexpected error: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x405093
+	0x4050d4
+	0x1fb490
+	0x2458da
+	0x245b7b
+	0x287b42
+	0x268204
+	0x285341
+	0x267f56
+	0x2396c9
+	0x23a484
+	0x657e34
+	0x6530c9
+	0x670add
+	0x41db38
+	0x4258ad
+	0x40d848
+	0x40da12
+	0x3f75fa
+	0x75895d49
+	0x7719d83b
+	0x7719d7c1
+
+2026-02-11 11:46:40 - INFO - Wiseyak - Screenshot saved: screenshots\screenshot_2026-02-11_11-46-39.png
+2026-02-11 11:50:42 - INFO - Wiseyak - Current_URL is https://dev.wiseai.wiseyak.com/
+2026-02-11 11:50:42 - ERROR - Wiseyak - The error is assert 'https://dev.....wiseyak.com/' == 'https://dev.....com/register'
+  
+  - https://dev.wiseai.wiseyak.com/register
+  ?                                --------
+  + https://dev.wiseai.wiseyak.com/
+2026-03-18 11:46:34 - INFO - Wiseyak - Token is picked
+2026-03-18 11:56:02 - INFO - Wiseyak - Token is picked
+2026-03-18 11:58:10 - INFO - Wiseyak - Token is picked
+2026-03-18 12:03:26 - INFO - Wiseyak - Token is picked
+2026-03-18 12:04:41 - INFO - Wiseyak - Token is picked
+2026-03-18 12:06:54 - INFO - Wiseyak - Token is picked
+2026-03-18 12:07:05 - INFO - Wiseyak - Succesfully Generated
+2026-03-18 14:34:58 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:35:45 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:36:43 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:39:05 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:40:31 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:43:43 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:43:59 - INFO - Wiseyak - Remaining tasks: 53
+2026-03-18 14:43:59 - ERROR - Wiseyak - Error in iteration 1: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Transcription generated successfully!")]"}
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xf6ef73+10893]
+	chromedriver!GetHandleVerifier [0xf6f0a4+109c4]
+	chromedriver!(No symbol) [0xd52130]
+	chromedriver!(No symbol) [0xd9abba]
+	chromedriver!(No symbol) [0xd9ae5b]
+	chromedriver!(No symbol) [0xddd092]
+	chromedriver!(No symbol) [0xdbdb44]
+	chromedriver!(No symbol) [0xdda8d4]
+	chromedriver!(No symbol) [0xdbd896]
+	chromedriver!(No symbol) [0xd90229]
+	chromedriver!(No symbol) [0xd90fe4]
+	chromedriver!GetHandleVerifier [0x11d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x11cd703+26f023]
+	chromedriver!GetHandleVerifier [0x11eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0xf87ee8+29808]
+	chromedriver!GetHandleVerifier [0xf8fc2d+3154d]
+	chromedriver!GetHandleVerifier [0xf77998+192b8]
+	chromedriver!GetHandleVerifier [0xf77b62+19482]
+	chromedriver!GetHandleVerifier [0xf6127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 14:45:50 - INFO - Wiseyak - Token picked successfully
+2026-03-18 14:46:06 - INFO - Wiseyak - Remaining tasks: 54
+2026-03-18 14:46:11 - ERROR - Wiseyak - Error in iteration 1: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Transcription generated successfully!")]"}
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xf6ef73+10893]
+	chromedriver!GetHandleVerifier [0xf6f0a4+109c4]
+	chromedriver!(No symbol) [0xd52130]
+	chromedriver!(No symbol) [0xd9abba]
+	chromedriver!(No symbol) [0xd9ae5b]
+	chromedriver!(No symbol) [0xddd092]
+	chromedriver!(No symbol) [0xdbdb44]
+	chromedriver!(No symbol) [0xdda8d4]
+	chromedriver!(No symbol) [0xdbd896]
+	chromedriver!(No symbol) [0xd90229]
+	chromedriver!(No symbol) [0xd90fe4]
+	chromedriver!GetHandleVerifier [0x11d20f9+273a19]
+	chromedriver!GetHandleVerifier [0x11cd703+26f023]
+	chromedriver!GetHandleVerifier [0x11eb42b+28cd4b]
+	chromedriver!GetHandleVerifier [0xf87ee8+29808]
+	chromedriver!GetHandleVerifier [0xf8fc2d+3154d]
+	chromedriver!GetHandleVerifier [0xf77998+192b8]
+	chromedriver!GetHandleVerifier [0xf77b62+19482]
+	chromedriver!GetHandleVerifier [0xf6127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 15:14:36 - INFO - Wiseyak - Token picked successfully
+2026-03-18 15:14:53 - INFO - Wiseyak - Remaining tasks: 55
+2026-03-18 15:14:58 - INFO - Wiseyak - Task 1: Transcription generated
+2026-03-18 15:15:01 - ERROR - Wiseyak - Error in iteration 1: 'Annotation' object has no attribute 'click_submit'
+2026-03-18 15:27:31 - INFO - Wiseyak - Token picked successfully
+2026-03-18 15:27:48 - INFO - Wiseyak - Remaining tasks: 56
+2026-03-18 15:27:53 - ERROR - Wiseyak - Error in iteration 1: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Transcription generated successfully!")]"}
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0xcbef73+10893]
+	chromedriver!GetHandleVerifier [0xcbf0a4+109c4]
+	chromedriver!(No symbol) [0xaa2130]
+	chromedriver!(No symbol) [0xaeabba]
+	chromedriver!(No symbol) [0xaeae5b]
+	chromedriver!(No symbol) [0xb2d092]
+	chromedriver!(No symbol) [0xb0db44]
+	chromedriver!(No symbol) [0xb2a8d4]
+	chromedriver!(No symbol) [0xb0d896]
+	chromedriver!(No symbol) [0xae0229]
+	chromedriver!(No symbol) [0xae0fe4]
+	chromedriver!GetHandleVerifier [0xf220f9+273a19]
+	chromedriver!GetHandleVerifier [0xf1d703+26f023]
+	chromedriver!GetHandleVerifier [0xf3b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0xcd7ee8+29808]
+	chromedriver!GetHandleVerifier [0xcdfc2d+3154d]
+	chromedriver!GetHandleVerifier [0xcc7998+192b8]
+	chromedriver!GetHandleVerifier [0xcc7b62+19482]
+	chromedriver!GetHandleVerifier [0xcb127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 16:03:51 - INFO - Wiseyak - Token picked successfully
+2026-03-18 16:04:08 - INFO - Wiseyak - Remaining tasks: 57
+2026-03-18 16:04:13 - ERROR - Wiseyak - Error in iteration 1: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Transcription generated successfully!")]"}
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x70ef73+10893]
+	chromedriver!GetHandleVerifier [0x70f0a4+109c4]
+	chromedriver!(No symbol) [0x4f2130]
+	chromedriver!(No symbol) [0x53abba]
+	chromedriver!(No symbol) [0x53ae5b]
+	chromedriver!(No symbol) [0x57d092]
+	chromedriver!(No symbol) [0x55db44]
+	chromedriver!(No symbol) [0x57a8d4]
+	chromedriver!(No symbol) [0x55d896]
+	chromedriver!(No symbol) [0x530229]
+	chromedriver!(No symbol) [0x530fe4]
+	chromedriver!GetHandleVerifier [0x9720f9+273a19]
+	chromedriver!GetHandleVerifier [0x96d703+26f023]
+	chromedriver!GetHandleVerifier [0x98b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x727ee8+29808]
+	chromedriver!GetHandleVerifier [0x72fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x717998+192b8]
+	chromedriver!GetHandleVerifier [0x717b62+19482]
+	chromedriver!GetHandleVerifier [0x70127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 16:04:56 - INFO - Wiseyak - Token picked successfully
+2026-03-18 16:05:12 - INFO - Wiseyak - Remaining tasks: 58
+2026-03-18 16:05:22 - ERROR - Wiseyak - Error in iteration 1: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(), "Transcription generated successfully!")]"}
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x70ef73+10893]
+	chromedriver!GetHandleVerifier [0x70f0a4+109c4]
+	chromedriver!(No symbol) [0x4f2130]
+	chromedriver!(No symbol) [0x53abba]
+	chromedriver!(No symbol) [0x53ae5b]
+	chromedriver!(No symbol) [0x57d092]
+	chromedriver!(No symbol) [0x55db44]
+	chromedriver!(No symbol) [0x57a8d4]
+	chromedriver!(No symbol) [0x55d896]
+	chromedriver!(No symbol) [0x530229]
+	chromedriver!(No symbol) [0x530fe4]
+	chromedriver!GetHandleVerifier [0x9720f9+273a19]
+	chromedriver!GetHandleVerifier [0x96d703+26f023]
+	chromedriver!GetHandleVerifier [0x98b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x727ee8+29808]
+	chromedriver!GetHandleVerifier [0x72fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x717998+192b8]
+	chromedriver!GetHandleVerifier [0x717b62+19482]
+	chromedriver!GetHandleVerifier [0x70127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 16:06:16 - INFO - Wiseyak - Token picked successfully
+2026-03-18 16:06:32 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:06:45 - INFO - Wiseyak - Task 1: Submitted
+2026-03-18 16:06:45 - ERROR - Wiseyak - Error in iteration 1: 'Annotation' object has no attribute 'click_next_task'
+2026-03-18 16:09:03 - INFO - Wiseyak - Token picked successfully
+2026-03-18 16:09:19 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:09:32 - INFO - Wiseyak - Task 1: Submitted
+2026-03-18 16:09:32 - ERROR - Wiseyak - Error in iteration 1: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x70ef73+10893]
+	chromedriver!GetHandleVerifier [0x70f0a4+109c4]
+	chromedriver!(No symbol) [0x4f2130]
+	chromedriver!(No symbol) [0x4f8d61]
+	chromedriver!(No symbol) [0x4fb03a]
+	chromedriver!(No symbol) [0x4fb0c8]
+	chromedriver!(No symbol) [0x53701a]
+	chromedriver!(No symbol) [0x55dafc]
+	chromedriver!(No symbol) [0x5316e4]
+	chromedriver!(No symbol) [0x55dcc4]
+	chromedriver!(No symbol) [0x57a8d4]
+	chromedriver!(No symbol) [0x55d896]
+	chromedriver!(No symbol) [0x530229]
+	chromedriver!(No symbol) [0x530fe4]
+	chromedriver!GetHandleVerifier [0x9720f9+273a19]
+	chromedriver!GetHandleVerifier [0x96d703+26f023]
+	chromedriver!GetHandleVerifier [0x98b42b+28cd4b]
+	chromedriver!GetHandleVerifier [0x727ee8+29808]
+	chromedriver!GetHandleVerifier [0x72fc2d+3154d]
+	chromedriver!GetHandleVerifier [0x717998+192b8]
+	chromedriver!GetHandleVerifier [0x717b62+19482]
+	chromedriver!GetHandleVerifier [0x70127a+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-18 16:24:16 - INFO - Wiseyak - Token picked successfully
+2026-03-18 16:24:32 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:25:15 - INFO - Wiseyak - Task 1: Submitted
+2026-03-18 16:25:45 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-18 16:25:48 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:26:31 - INFO - Wiseyak - Task 2: Submitted
+2026-03-18 16:27:01 - INFO - Wiseyak - Task 2: Moving to next task
+2026-03-18 16:27:05 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:27:48 - INFO - Wiseyak - Task 3: Submitted
+2026-03-18 16:28:18 - INFO - Wiseyak - Task 3: Moving to next task
+2026-03-18 16:28:21 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:29:05 - INFO - Wiseyak - Task 4: Submitted
+2026-03-18 16:29:35 - INFO - Wiseyak - Task 4: Moving to next task
+2026-03-18 16:29:38 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:30:21 - INFO - Wiseyak - Task 5: Submitted
+2026-03-18 16:30:51 - INFO - Wiseyak - Task 5: Moving to next task
+2026-03-18 16:30:54 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:31:38 - INFO - Wiseyak - Task 6: Submitted
+2026-03-18 16:32:08 - INFO - Wiseyak - Task 6: Moving to next task
+2026-03-18 16:32:11 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:32:54 - INFO - Wiseyak - Task 7: Submitted
+2026-03-18 16:33:25 - INFO - Wiseyak - Task 7: Moving to next task
+2026-03-18 16:33:28 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:34:11 - INFO - Wiseyak - Task 8: Submitted
+2026-03-18 16:34:41 - INFO - Wiseyak - Task 8: Moving to next task
+2026-03-18 16:34:44 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:35:27 - INFO - Wiseyak - Task 9: Submitted
+2026-03-18 16:35:57 - INFO - Wiseyak - Task 9: Moving to next task
+2026-03-18 16:36:00 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:36:44 - INFO - Wiseyak - Task 10: Submitted
+2026-03-18 16:37:14 - INFO - Wiseyak - Task 10: Moving to next task
+2026-03-18 16:37:17 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:38:00 - INFO - Wiseyak - Task 11: Submitted
+2026-03-18 16:38:30 - INFO - Wiseyak - Task 11: Moving to next task
+2026-03-18 16:38:33 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:39:17 - INFO - Wiseyak - Task 12: Submitted
+2026-03-18 16:39:47 - INFO - Wiseyak - Task 12: Moving to next task
+2026-03-18 16:39:50 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-18 16:40:33 - INFO - Wiseyak - Task 13: Submitted
+2026-03-18 16:40:42 - INFO - Wiseyak - Task 13: Moving to next task
+2026-03-19 09:08:28 - INFO - Wiseyak - Token picked successfully
+2026-03-19 09:08:44 - INFO - Wiseyak - Remaining tasks: 61
+2026-03-19 09:08:57 - INFO - Wiseyak - Task 1: Submitted
+2026-03-19 09:08:59 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-19 09:09:02 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 09:10:15 - INFO - Wiseyak - Task 2: Submitted
+2026-03-19 09:10:16 - INFO - Wiseyak - Task 2: Moving to next task
+2026-03-19 09:10:20 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 09:11:33 - INFO - Wiseyak - Task 3: Submitted
+2026-03-19 09:11:34 - INFO - Wiseyak - Task 3: Moving to next task
+2026-03-19 09:11:37 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 09:12:50 - INFO - Wiseyak - Task 4: Submitted
+2026-03-19 09:12:51 - INFO - Wiseyak - Task 4: Moving to next task
+2026-03-19 09:12:54 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 09:13:12 - INFO - Wiseyak - Task 5: Submitted
+2026-03-19 09:13:12 - ERROR - Wiseyak - Error in iteration 5: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=146.0.7680.80); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x11e7c13+10dd3]
+	chromedriver!GetHandleVerifier [0x11e7d44+10f04]
+	chromedriver!(No symbol) [0xfc1f50]
+	chromedriver!(No symbol) [0xfc8bbc]
+	chromedriver!(No symbol) [0xfcae4a]
+	chromedriver!(No symbol) [0xfcaed8]
+	chromedriver!(No symbol) [0x1006e0a]
+	chromedriver!(No symbol) [0x102d90c]
+	chromedriver!(No symbol) [0x10014e4]
+	chromedriver!(No symbol) [0x102dad4]
+	chromedriver!(No symbol) [0x104a7de]
+	chromedriver!(No symbol) [0x102d6a6]
+	chromedriver!(No symbol) [0x1000029]
+	chromedriver!(No symbol) [0x1000de4]
+	chromedriver!GetHandleVerifier [0x1444509+26d6c9]
+	chromedriver!GetHandleVerifier [0x143fb43+268d03]
+	chromedriver!GetHandleVerifier [0x145d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x1201668+2a828]
+	chromedriver!GetHandleVerifier [0x12097fd+329bd]
+	chromedriver!GetHandleVerifier [0x11f0588+19748]
+	chromedriver!GetHandleVerifier [0x11f0752+19912]
+	chromedriver!GetHandleVerifier [0x11d99da+2b9a]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 09:18:12 - INFO - Wiseyak - Token picked successfully
+2026-03-19 09:18:29 - INFO - Wiseyak - Remaining tasks: 60
+2026-03-19 09:18:42 - INFO - Wiseyak - Task 1: Submitted
+2026-03-19 09:18:43 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-19 09:18:46 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-19 09:20:00 - INFO - Wiseyak - Task 2: Submitted
+2026-03-19 09:20:01 - INFO - Wiseyak - Task 2: Moving to next task
+2026-03-19 09:20:04 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-19 09:21:17 - INFO - Wiseyak - Task 3: Submitted
+2026-03-19 09:21:18 - INFO - Wiseyak - Task 3: Moving to next task
+2026-03-19 09:21:21 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-19 09:22:04 - INFO - Wiseyak - Task 4: Submitted
+2026-03-19 09:22:04 - INFO - Wiseyak - Task 4: Moving to next task
+2026-03-19 10:58:57 - INFO - Wiseyak - Token picked successfully
+2026-03-19 10:59:13 - INFO - Wiseyak - Remaining tasks: 59
+2026-03-19 10:59:26 - INFO - Wiseyak - Task 1: Submitted
+2026-03-19 10:59:26 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-19 10:59:29 - INFO - Wiseyak - Remaining tasks: 58
+2026-03-19 10:59:43 - INFO - Wiseyak - Task 2: Submitted
+2026-03-19 10:59:43 - INFO - Wiseyak - Task 2: Moving to next task
+2026-03-19 10:59:46 - INFO - Wiseyak - Remaining tasks: 57
+2026-03-19 10:59:59 - INFO - Wiseyak - Task 3: Submitted
+2026-03-19 11:00:00 - INFO - Wiseyak - Task 3: Moving to next task
+2026-03-19 11:00:03 - INFO - Wiseyak - Remaining tasks: 56
+2026-03-19 11:00:16 - INFO - Wiseyak - Task 4: Submitted
+2026-03-19 11:00:17 - INFO - Wiseyak - Task 4: Moving to next task
+2026-03-19 11:00:20 - INFO - Wiseyak - Remaining tasks: 55
+2026-03-19 11:00:33 - INFO - Wiseyak - Task 5: Submitted
+2026-03-19 11:00:33 - INFO - Wiseyak - Task 5: Moving to next task
+2026-03-19 11:00:37 - INFO - Wiseyak - Remaining tasks: 54
+2026-03-19 11:00:50 - INFO - Wiseyak - Task 6: Submitted
+2026-03-19 11:00:51 - INFO - Wiseyak - Task 6: Moving to next task
+2026-03-19 11:00:54 - INFO - Wiseyak - Remaining tasks: 53
+2026-03-19 11:01:07 - INFO - Wiseyak - Task 7: Submitted
+2026-03-19 11:01:08 - INFO - Wiseyak - Task 7: Moving to next task
+2026-03-19 11:01:11 - INFO - Wiseyak - Remaining tasks: 52
+2026-03-19 11:01:24 - INFO - Wiseyak - Task 8: Submitted
+2026-03-19 11:01:24 - INFO - Wiseyak - Task 8: Moving to next task
+2026-03-19 11:01:27 - INFO - Wiseyak - Remaining tasks: 51
+2026-03-19 11:01:40 - INFO - Wiseyak - Task 9: Submitted
+2026-03-19 11:01:41 - INFO - Wiseyak - Task 9: Moving to next task
+2026-03-19 11:01:44 - INFO - Wiseyak - Remaining tasks: 50
+2026-03-19 11:01:57 - INFO - Wiseyak - Task 10: Submitted
+2026-03-19 11:01:58 - INFO - Wiseyak - Task 10: Moving to next task
+2026-03-19 11:02:01 - INFO - Wiseyak - Remaining tasks: 49
+2026-03-19 11:02:14 - INFO - Wiseyak - Task 11: Submitted
+2026-03-19 11:02:15 - INFO - Wiseyak - Task 11: Moving to next task
+2026-03-19 11:02:18 - INFO - Wiseyak - Remaining tasks: 48
+2026-03-19 11:02:31 - INFO - Wiseyak - Task 12: Submitted
+2026-03-19 11:02:31 - INFO - Wiseyak - Task 12: Moving to next task
+2026-03-19 11:02:34 - INFO - Wiseyak - Remaining tasks: 47
+2026-03-19 11:02:47 - INFO - Wiseyak - Task 13: Submitted
+2026-03-19 11:02:48 - INFO - Wiseyak - Task 13: Moving to next task
+2026-03-19 11:02:51 - INFO - Wiseyak - Remaining tasks: 46
+2026-03-19 11:03:35 - INFO - Wiseyak - Task 14: Submitted
+2026-03-19 11:04:05 - INFO - Wiseyak - Task 14: Moving to next task
+2026-03-19 11:04:08 - INFO - Wiseyak - Remaining tasks: 46
+2026-03-19 11:04:21 - INFO - Wiseyak - Task 15: Submitted
+2026-03-19 11:04:21 - INFO - Wiseyak - Task 15: Moving to next task
+2026-03-19 11:20:28 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:36:01 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:37:23 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:37:44 - INFO - Wiseyak - Remaining tasks: 48
+2026-03-19 11:37:57 - INFO - Wiseyak - Task 1: Submitted
+2026-03-19 11:37:58 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-19 11:38:01 - INFO - Wiseyak - Remaining tasks: 47
+2026-03-19 11:38:44 - INFO - Wiseyak - Task 2: Submitted
+2026-03-19 11:39:14 - INFO - Wiseyak - Task 2: Moving to next task
+2026-03-19 11:39:18 - INFO - Wiseyak - Remaining tasks: 47
+2026-03-19 11:39:31 - INFO - Wiseyak - Task 3: Submitted
+2026-03-19 11:39:31 - ERROR - Wiseyak - Error in iteration 3: Message: invalid session id
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x4d7c13+10dd3]
+	chromedriver!GetHandleVerifier [0x4d7d44+10f04]
+	chromedriver!(No symbol) [0x2b1d8e]
+	chromedriver!(No symbol) [0x2ef2b5]
+	chromedriver!(No symbol) [0x31d7c6]
+	chromedriver!(No symbol) [0x318c41]
+	chromedriver!(No symbol) [0x318262]
+	chromedriver!(No symbol) [0x28517e]
+	chromedriver!(No symbol) [0x28571e]
+	chromedriver!(No symbol) [0x285bfd]
+	chromedriver!GetHandleVerifier [0x734509+26d6c9]
+	chromedriver!GetHandleVerifier [0x72fb43+268d03]
+	chromedriver!GetHandleVerifier [0x74d85b+286a1b]
+	chromedriver!GetHandleVerifier [0x4f1668+2a828]
+	chromedriver!GetHandleVerifier [0x4f97fd+329bd]
+	chromedriver!(No symbol) [0x284ee9]
+	chromedriver!(No symbol) [0x284530]
+	chromedriver!GetHandleVerifier [0x87dc9f+3b6e5f]
+	KERNEL32!BaseThreadInitThunk [0x754b5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7700d81b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7700d7a1+231]
+
+2026-03-19 11:45:23 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:53:38 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:54:40 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:58:19 - INFO - Wiseyak - Token picked successfully
+2026-03-19 11:58:32 - INFO - Wiseyak - Remaining tasks: 51
+2026-03-19 11:58:38 - INFO - Wiseyak - Task 1: Submitted
+2026-03-19 11:58:39 - INFO - Wiseyak - Task 1: Moving to next task
+2026-03-19 11:58:42 - INFO - Wiseyak - Remaining tasks: 50
+2026-03-19 12:00:20 - ERROR - Wiseyak - Error in iteration 2: Message: 
+

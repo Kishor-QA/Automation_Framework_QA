@@ -24,11 +24,11 @@ class LoginPage(Basepage):
 
     def alert_message(self):
         return self.toast_alert(self.Toast_Alert)
-
-
+    
     def login(self, username, password):
         print("<<<<LOGIN STARTED>>>>>>>>>")
         print("DEBUG: Before enter_username")
+
         self.enter_username(username)
         print("DEBUG: After enter_username")
 
@@ -59,5 +59,5 @@ class LoginPage(Basepage):
     def validate_profile(self):
         element = self.find_element_profile(self.Home_Button)
         return element.text.strip()
-    
-    
+
+

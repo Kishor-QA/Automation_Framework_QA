@@ -13,14 +13,14 @@ import time
 
 
 def load_credentials(file_path="./Test_Data/login_info.csv"):
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, keep_default_na=False)
     # Convert DataFrame to list of tuples
     return list(df.itertuples(index=False))
 
 test_data = load_credentials()
 
 @pytest.mark.parametrize("username,password,case_type,expected", test_data)
-def test_login(driver, username, password, case_type, expected):
+def test_login1(driver, username, password, case_type, expected):
     logger = Log_Maker.log_gen()
     logger.info("====== Starting Login Test ======")
     login_page = LoginPage(driver)
@@ -45,8 +45,9 @@ def test_login(driver, username, password, case_type, expected):
         if case_type == "success":
             print(f"The username is {username}")
             print(f"The password is {password}")
-            login_page.login(username , password)
+            login_page.login(username,password)
             print("<<<<Debugging>>>>")
+            time.sleep(10)
             actual_text = login_page.validate_profile()
             print(f"The text is {actual_text}")
             print(f"The actual text is {actual_text}")

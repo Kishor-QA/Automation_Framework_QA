@@ -18,6 +18,12 @@ class Basepage:
     def find_element(self, locator):
         return self.driver.find_element(*locator)
 
+    def error_find_element(self, locator):
+        elements = self.driver.find_elements(*locator)
+        if elements:
+            return elements
+        else:
+            return "There is no such element"
     def find_element_profile(self, locator):
         return self.wait.until(EC.visibility_of_element_located(locator))
 
@@ -26,12 +32,21 @@ class Basepage:
             return parent_element.find_elements(*locator)
         return self.driver.find_elements(*locator)
     
-    def click(self, locator):
-        try:
-            element = self.wait.until(EC.element_to_be_clickable(locator))
-            element.click()
-        except Exception as e:
-            print(f"Already Clicked {e}")
+    def click(self, locator, retries=3):
+        for i in range(retries):
+            try:
+                element = self.wait.until(EC.element_to_be_clickable(locator))
+
+                try:
+                    element.click()
+                except:
+                    self.driver.execute_script("arguments[0].click();", element)
+
+                return
+
+            except Exception as e:
+                if i == retries - 1:
+                    raise e
 
     
     def click_nth_element(self, locator, n):
@@ -72,15 +87,15 @@ class Basepage:
             element = self.wait.until(EC.element_to_be_clickable(locator))
             element.click()
             element.clear()
-            time.sleep(5)
-            element.send_keys(value, Keys.ENTER)
+            time.sleep(2)
+            element.send_keys(value)
 
     def upload_file(self, locator, file_path, is_file_input=True):
         try:
             element = self.driver.find_element(*locator)
             if is_file_input:
                 # Unhide the input if it's hidden
-                self.driver.execute_script("arguments[0].classList.remove('hidden');", element)
+                self.driver.execute_script("arguments[0].c lassList.remove('hidden');", element)
                 element.send_keys(file_path)
             else:
                 # Just click the upload button

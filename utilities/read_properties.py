@@ -32,27 +32,24 @@ class DashboardConfig:
         formatted_locator = locator_value.format(client_name)
         return (getattr(By, locator_type.strip()), formatted_locator.strip())
 
-class TeamConfig:
+class AssignServices:
     @staticmethod
-    def get_team_url():
-        return config.get("", "")
-    @staticmethod
-    def get_invite_url():
-        return config.get("","" )
+    def get_assignservices_url():
+        return config.get("Assign Services", "Assign_Services_URL")
     @staticmethod
     def get_locator(name):
-        locator =config.get("", name)
+        locator =config.get("Assign Services", name)
         locator_type, locator_value = locator.split(',', 1)
         return (getattr(By, locator_type.strip()), locator_value.strip())
     
-class TrainingConfig:
+class AnnotationConfig:
     @staticmethod
-    def get_training_url():
-        return config.get("", "")
+    def get_annotation_url():
+        return config.get("Annotation", "Annotation_Page_URL")
     
     @staticmethod
     def get_locator(name):
-        locator = config.get("", name)
+        locator = config.get("Annotation", name)
         locator_type, locator_value = locator.split(',', 1)
         return (getattr(By, locator_type.strip()), locator_value.strip())
     
