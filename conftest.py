@@ -29,8 +29,15 @@ def pytest_addoption(parser):
     parser.addoption(
         "--password",
         action="store",
-        default="password",
+        default="Password1@",
         help="Login password"
+    )
+        # ADD THIS 👇
+    parser.addoption(
+        "--url",
+        action="store",
+        default=None,
+        help="Application URL"
     )
 
 @pytest.fixture(scope="class")
@@ -44,7 +51,9 @@ def credentials(request):
     return email, password
 
 @pytest.fixture(scope="class")
-def driver(browser):
+def driver(browser, request):
+    url = request.config.getoption("--url")
+
     if browser.lower() == "chrome":
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     elif browser.lower() == "firefox":
@@ -52,9 +61,14 @@ def driver(browser):
     elif browser.lower() == "edge":
         driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
     else:
-        raise ValueError(f"Unsupported browser: {browser}. Choose from chrome, firefox, or edge.")
+        raise ValueError(f"Unsupported browser: {browser}")
 
-    driver.get(ReadConfig.get_page_url())
+    # 👇 Use CLI URL if provided, else fallback
+    if url:
+        driver.get(url)
+    else:
+        driver.get(ReadConfig.get_page_url())
+
     driver.maximize_window()
     yield driver
     driver.quit()
