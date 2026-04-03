@@ -28,7 +28,7 @@ class TestHome():
         current_url = driver.current_url
         self.logger.info(f"Current_URL is {current_url}") 
         try:
-            assert current_url =="https://dev.wiseai.wiseyak.com/register"
+            assert current_url =="https://demo.wiseai.wiseyak.com/register"
         except AssertionError as e:
             self.logger.error(f"The error is {e}")
         

@@ -15,7 +15,7 @@ class TestAnnotation:
 
         page = stt_maithili_page
 
-        total_pick = 3
+        total_pick = 500
         picked = 0
 
         # Initial flow
@@ -44,7 +44,7 @@ class TestAnnotation:
         time.sleep(2)
 
         iteration = 0
-        max_iterations = 3
+        max_iterations = 500
 
         while True:
             time.sleep(3)
